@@ -16,7 +16,7 @@ namespace ProyectoGSA.App.Persistencia
             if (!optionsBuilder.IsConfigured)
             {
                 optionsBuilder
-               .UseSqlServer("Server= localhost; Database = Default");
+               .UseSqlServer("Server = DESKTOP-6PG0VHA\\MSSQLSERVERTATTY; Database = Default; user id = DESKTOP-6PG0VHA\\Tatty");
             }
         }
     }    

@@ -4,14 +4,14 @@
     "G:\\Mi unidad\\misiontic\\Desarrollo de Software\\PROYECTO\\ProyectoGSA.App\\ProyectoGSA.App.Persistencia\\ProyectoGSA.App.Persistencia.csproj": {}
   },
   "projects": {
-    "G:\\Mi unidad\\misiontic\\Desarrollo de Software\\PROYECTO\\ProyectoGSA.App\\ProyectoGSA.APP.Dominio\\ProyectoGSA.App.Dominio.csproj": {
+    "G:\\Mi unidad\\misiontic\\Desarrollo de Software\\PROYECTO\\ProyectoGSA.App\\ProyectoGSA.App.Dominio\\ProyectoGSA.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Mi unidad\\misiontic\\Desarrollo de Software\\PROYECTO\\ProyectoGSA.App\\ProyectoGSA.APP.Dominio\\ProyectoGSA.App.Dominio.csproj",
+        "projectUniqueName": "G:\\Mi unidad\\misiontic\\Desarrollo de Software\\PROYECTO\\ProyectoGSA.App\\ProyectoGSA.App.Dominio\\ProyectoGSA.App.Dominio.csproj",
         "projectName": "ProyectoGSA.App.Dominio",
-        "projectPath": "G:\\Mi unidad\\misiontic\\Desarrollo de Software\\PROYECTO\\ProyectoGSA.App\\ProyectoGSA.APP.Dominio\\ProyectoGSA.App.Dominio.csproj",
+        "projectPath": "G:\\Mi unidad\\misiontic\\Desarrollo de Software\\PROYECTO\\ProyectoGSA.App\\ProyectoGSA.App.Dominio\\ProyectoGSA.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\Tatty\\.nuget\\packages\\",
-        "outputPath": "G:\\Mi unidad\\misiontic\\Desarrollo de Software\\PROYECTO\\ProyectoGSA.App\\ProyectoGSA.APP.Dominio\\obj\\",
+        "outputPath": "G:\\Mi unidad\\misiontic\\Desarrollo de Software\\PROYECTO\\ProyectoGSA.App\\ProyectoGSA.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,8 +93,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "G:\\Mi unidad\\misiontic\\Desarrollo de Software\\PROYECTO\\ProyectoGSA.App\\ProyectoGSA.APP.Dominio\\ProyectoGSA.App.Dominio.csproj": {
-                "projectPath": "G:\\Mi unidad\\misiontic\\Desarrollo de Software\\PROYECTO\\ProyectoGSA.App\\ProyectoGSA.APP.Dominio\\ProyectoGSA.App.Dominio.csproj"
+              "G:\\Mi unidad\\misiontic\\Desarrollo de Software\\PROYECTO\\ProyectoGSA.App\\ProyectoGSA.App.Dominio\\ProyectoGSA.App.Dominio.csproj": {
+                "projectPath": "G:\\Mi unidad\\misiontic\\Desarrollo de Software\\PROYECTO\\ProyectoGSA.App\\ProyectoGSA.App.Dominio\\ProyectoGSA.App.Dominio.csproj"
               }
             }
           }

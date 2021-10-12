@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BWFd2yICYwht+e4Y2Q2B6B6KitIvWC8Mt82coo38loy0WgEX3VQID11xSd5x4jyc0YXews/IH0LtJJ995AKDdQ==",
+  "dgSpecHash": "AxkJ/JGVPPYn/WtoFjD5ojCwntCie/PhuRRTwrfm3X9Owmaqk5yYfaNutfsbULUVtSPM8upPAr3vOMjR+Bth2g==",
   "success": true,
-  "projectFilePath": "G:\\Mi unidad\\misiontic\\Desarrollo de Software\\PROYECTO\\ProyectoGSA.App\\ProyectoGSA.APP.Dominio\\ProyectoGSA.App.Dominio.csproj",
+  "projectFilePath": "G:\\Mi unidad\\misiontic\\Desarrollo de Software\\PROYECTO\\ProyectoGSA.App\\ProyectoGSA.App.Dominio\\ProyectoGSA.App.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tatty\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Tatty\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
