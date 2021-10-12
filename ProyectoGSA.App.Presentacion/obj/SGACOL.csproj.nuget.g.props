@@ -5,13 +5,13 @@
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Andtrs Villamil\.nuget\packages\;C:\Program Files (x86)\Microsoft\Xamarin\NuGet\</NuGetPackageFolders>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Tatty\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.11.0</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <SourceRoot Include="C:\Users\Andtrs Villamil\.nuget\packages\" />
-    <SourceRoot Include="C:\Program Files (x86)\Microsoft\Xamarin\NuGet\" />
+    <SourceRoot Include="C:\Users\Tatty\.nuget\packages\" />
+    <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
   <PropertyGroup>
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
@@ -21,8 +21,8 @@
     <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.blazor.build\3.0.0-preview9.19424.4\build\netstandard1.0\Microsoft.AspNetCore.Blazor.Build.props" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.blazor.build\3.0.0-preview9.19424.4\build\netstandard1.0\Microsoft.AspNetCore.Blazor.Build.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgMicrosoft_AspNetCore_Blazor_Mono Condition=" '$(PkgMicrosoft_AspNetCore_Blazor_Mono)' == '' ">C:\Users\Andtrs Villamil\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1</PkgMicrosoft_AspNetCore_Blazor_Mono>
-    <PkgMicrosoft_AspNetCore_Blazor_DevServer Condition=" '$(PkgMicrosoft_AspNetCore_Blazor_DevServer)' == '' ">C:\Users\Andtrs Villamil\.nuget\packages\microsoft.aspnetcore.blazor.devserver\3.0.0-preview9.19424.4</PkgMicrosoft_AspNetCore_Blazor_DevServer>
-    <PkgMicrosoft_AspNetCore_Blazor_Build Condition=" '$(PkgMicrosoft_AspNetCore_Blazor_Build)' == '' ">C:\Users\Andtrs Villamil\.nuget\packages\microsoft.aspnetcore.blazor.build\3.0.0-preview9.19424.4</PkgMicrosoft_AspNetCore_Blazor_Build>
+    <PkgMicrosoft_AspNetCore_Blazor_Mono Condition=" '$(PkgMicrosoft_AspNetCore_Blazor_Mono)' == '' ">C:\Users\Tatty\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1</PkgMicrosoft_AspNetCore_Blazor_Mono>
+    <PkgMicrosoft_AspNetCore_Blazor_DevServer Condition=" '$(PkgMicrosoft_AspNetCore_Blazor_DevServer)' == '' ">C:\Users\Tatty\.nuget\packages\microsoft.aspnetcore.blazor.devserver\3.0.0-preview9.19424.4</PkgMicrosoft_AspNetCore_Blazor_DevServer>
+    <PkgMicrosoft_AspNetCore_Blazor_Build Condition=" '$(PkgMicrosoft_AspNetCore_Blazor_Build)' == '' ">C:\Users\Tatty\.nuget\packages\microsoft.aspnetcore.blazor.build\3.0.0-preview9.19424.4</PkgMicrosoft_AspNetCore_Blazor_Build>
   </PropertyGroup>
 </Project>

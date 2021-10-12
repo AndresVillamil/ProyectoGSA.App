@@ -12,37 +12,37 @@ namespace SGACOL.Pages
     using System.Linq;
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
-#line 1 "C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\_Imports.razor"
+#line 1 "G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProyectoGSA.App\ProyectoGSA.App.Presentacion\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
-#line 2 "C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\_Imports.razor"
+#line 2 "G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProyectoGSA.App\ProyectoGSA.App.Presentacion\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
-#line 3 "C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\_Imports.razor"
+#line 3 "G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProyectoGSA.App\ProyectoGSA.App.Presentacion\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
-#line 4 "C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\_Imports.razor"
+#line 4 "G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProyectoGSA.App\ProyectoGSA.App.Presentacion\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
-#line 5 "C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\_Imports.razor"
+#line 5 "G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProyectoGSA.App\ProyectoGSA.App.Presentacion\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
-#line 6 "C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\_Imports.razor"
+#line 6 "G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProyectoGSA.App\ProyectoGSA.App.Presentacion\_Imports.razor"
 using SGACOL;
 
 #line default
 #line hidden
-#line 7 "C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\_Imports.razor"
+#line 7 "G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProyectoGSA.App\ProyectoGSA.App.Presentacion\_Imports.razor"
 using SGACOL.Shared;
 
 #line default
@@ -55,7 +55,7 @@ using SGACOL.Shared;
         {
         }
         #pragma warning restore 1998
-#line 70 "C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Presentacion\Pages\Grupos.razor"
+#line 70 "G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProyectoGSA.App\ProyectoGSA.App.Presentacion\Pages\Grupos.razor"
        
     BaseEstudiantes[] estudiantes;
 

@@ -1,7 +1,7 @@
 using System;
 namespace ProyectoGSA.App.Dominio.Entidades
 {
-    public class Docente
+    public class Docente 
     {
         public int id {get; set;}
         public string nombres {set; get;}

@@ -17,3 +17,13 @@ C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Dominio\obj\Debug\netstandard2.0\Pro
 C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Dominio\bin\Debug\netstandard2.0\ProyectoGSA.App.Dominio.deps.json
 C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Dominio\bin\Debug\netstandard2.0\ProyectoGSA.App.Dominio.dll
 C:\AppVers2\ProyectoSGA.App\ProyectoGSA.App.Dominio\bin\Debug\netstandard2.0\ProyectoGSA.App.Dominio.pdb
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProyectoGSA.App\ProyectoGSA.App.Dominio\bin\Debug\netstandard2.0\ProyectoGSA.App.Dominio.deps.json
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProyectoGSA.App\ProyectoGSA.App.Dominio\bin\Debug\netstandard2.0\ProyectoGSA.App.Dominio.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProyectoGSA.App\ProyectoGSA.App.Dominio\bin\Debug\netstandard2.0\ProyectoGSA.App.Dominio.pdb
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProyectoGSA.App\ProyectoGSA.App.Dominio\obj\Debug\netstandard2.0\ProyectoGSA.App.Dominio.csproj.AssemblyReference.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProyectoGSA.App\ProyectoGSA.App.Dominio\obj\Debug\netstandard2.0\ProyectoGSA.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProyectoGSA.App\ProyectoGSA.App.Dominio\obj\Debug\netstandard2.0\ProyectoGSA.App.Dominio.AssemblyInfoInputs.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProyectoGSA.App\ProyectoGSA.App.Dominio\obj\Debug\netstandard2.0\ProyectoGSA.App.Dominio.AssemblyInfo.cs
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProyectoGSA.App\ProyectoGSA.App.Dominio\obj\Debug\netstandard2.0\ProyectoGSA.App.Dominio.csproj.CoreCompileInputs.cache
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProyectoGSA.App\ProyectoGSA.App.Dominio\obj\Debug\netstandard2.0\ProyectoGSA.App.Dominio.dll
+G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\ProyectoGSA.App\ProyectoGSA.App.Dominio\obj\Debug\netstandard2.0\ProyectoGSA.App.Dominio.pdb
